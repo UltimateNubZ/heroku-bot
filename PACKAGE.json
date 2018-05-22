@@ -1,0 +1,15 @@
+{
+  "name": "ultimate_nubz_moderation",
+  "version": "0.0.1",
+  "description": "a simple efficient discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ultimate NubZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1"
+  }
+}
